@@ -1,0 +1,1 @@
+print("Welcome to Seminar Collect and Visualize data")
